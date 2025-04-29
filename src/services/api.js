@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'https://zucchini-liberation-production.up.railway.app//task-tracker',
+    baseURL: 'https://zucchini-liberation-production.up.railway.app/task-tracker',
 
 
 });
